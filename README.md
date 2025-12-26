@@ -62,7 +62,10 @@ The dataset used typically contains transactions made by credit cards in Septemb
     app.py
     ```
 
-## 📸 Screenshots
+## 📸 Screenshots<img width="1883" height="1064" alt="Screenshot 2025-12-26 084605" src="https://github.com/user-attachments/assets/359d6641-4f01-4add-a628-d30925edfdd9" />
+<img width="1912" height="1046" alt="Screenshot 2025-12-26 092540" src="https://github.com/user-attachments/assets/79b7f618-9666-4460-afdb-6e769abdefae" />
+
+
 *(You can add screenshots of your Streamlit app interface here)*
 1. **Home Page**
 2. **Prediction Result (Fraud/Normal)**
